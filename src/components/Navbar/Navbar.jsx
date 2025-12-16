@@ -13,13 +13,13 @@ const Navbar = () => {
     }
 
     const links = <>
-        <li><NavLink className="hover:text-blue-600" to="/home">Home</NavLink></li>
-        <li><NavLink className="hover:text-blue-600" to="/availableFoods">Available Foods</NavLink></li>
+        <li><NavLink className="hover:text-blue-600 text-lg font-medium" to="/">Home</NavLink></li>
+        <li><NavLink className="hover:text-blue-600 text-lg font-medium" to="/availableFoods">Available Foods</NavLink></li>
         {
             user && <>
-                <li><NavLink className="hover:text-blue-600" to="/addFood">Add Food</NavLink></li>
-                <li><NavLink className="hover:text-blue-600" to="/myFoods">My Foods</NavLink></li>
-                <li><NavLink className="hover:text-blue-600" to="/foodRequests">Food Requests</NavLink></li>
+                <li><NavLink className="hover:text-blue-600 text-lg font-medium" to="/addFood">Add Food</NavLink></li>
+                <li><NavLink className="hover:text-blue-600 text-lg font-medium" to="/myFoods">My Foods</NavLink></li>
+                <li><NavLink className="hover:text-blue-600 text-lg font-medium" to="/foodRequests">Food Requests</NavLink></li>
             </>
         }
     </>
@@ -69,8 +69,8 @@ const Navbar = () => {
           )}
                 {
                     user ?
-                        <a className="btn mx-2 text-left text-red-500 hover:text-red-700" onClick={handleSignOut}>Log Out</a> :
-                        <Link to="/register">Login</Link>
+                        <a className="btn mx-2 text-left text-red-500 hover:text-red-700  text-lg font-medium" onClick={handleSignOut}>Log Out</a> :
+                        <Link className='mt-4 bg-blue-400 px-6 py-3 text-sm rounded-lg font-semibold text-white shadow hover:bg-blue-800' to="/login">Login</Link>
                 }
           
             </div>

@@ -1,0 +1,211 @@
+[
+  {
+    "foodName": "Pizzas (Cheese and Veggie)",
+    "foodImage": "https://i.ibb.co.com/G3s0h0WS/Untitled.jpg",
+    "foodQuantity": 5,
+    "pickupLocation": "Khulna, Sonadanga",
+    "expireDate": "2026-01-05",
+    "additionalNotes": "Must be picked up before 9 PM.",
+    "description": "Soft and cheesy pizzas topped with assorted vegetables and flavorful spices.",
+    "food_status": "Available",
+    "category": "Fast Food"
+  },
+  {
+    "foodName": "Daal and Roti",
+    "foodImage": "https://i.ibb.co.com/5gDW4Pt2/dall.jpg",
+    "foodQuantity": 6,
+    "pickupLocation": "Rajshahi, Motihar",
+    "expireDate": "2026-01-07",
+    "additionalNotes": "Best consumed immediately. Medium spice level.",
+    "description": "A traditional and comforting meal of warm daal served with soft handmade roti.",
+    "food_status": "Available",
+    "category": "Main Course"
+  },
+  {
+    "foodName": "Mutton Korma",
+    "foodImage": "https://i.ibb.co.com/TqJYQrzK/mutton.jpg",
+    "foodQuantity": 7,
+    "pickupLocation": "Chattogram, Agrabad",
+    "expireDate": "2026-01-09",
+    "additionalNotes": "Rich and creamy texture.",
+    "description": "A luxurious and rich mutton korma cooked slowly in a creamy gravy infused with spices.",
+    "food_status": "Available",
+    "category": "Main Course"
+  },
+  {
+    "foodName": "Cupcakes (Chocolate)",
+    "foodImage": "https://i.ibb.co.com/fdNcY8GK/cace.jpg",
+    "foodQuantity": 8,
+    "pickupLocation": "Khulna, Daulatpur",
+    "expireDate": "2026-01-11",
+    "additionalNotes": "Perfect for a small gathering.",
+    "description": "Soft, moist, and freshly baked chocolate cupcakes topped with smooth frosting.",
+    "food_status": "Available",
+    "category": "Dessert"
+  },
+  {
+    "foodName": "Chicken Noodles",
+    "foodImage": "https://i.ibb.co.com/vvwZb9qJ/nuddles.jpg",
+    "foodQuantity": 9,
+    "pickupLocation": "Chattogram, EPZ Area",
+    "expireDate": "2026-01-13",
+    "additionalNotes": "Chinese style, soy sauce based.",
+    "description": "Delicious Chinese-style noodles cooked with tender chicken strips and vegetables.",
+    "food_status": "Available",
+    "category": "Main Course"
+  },
+  {
+    "foodName": "Freshly Baked Bread Loaves",
+    "foodImage": "https://i.ibb.co.com/Pvc1cGm2/brade.jpg",
+    "foodQuantity": 10,
+    "pickupLocation": "Sylhet, Zindabazar",
+    "expireDate": "2026-01-15",
+    "additionalNotes": "Leftover from a morning bakery batch.",
+    "description": "Soft, fluffy, and aromatic bread loaves freshly baked in the morning.",
+    "food_status": "Available",
+    "category": "Bakery"
+  },
+  {
+    "foodName": "Vegetable Curry and Rice",
+    "foodImage": "https://i.ibb.co.com/XkjfVXty/rice.jpg",
+    "foodQuantity": 11,
+    "pickupLocation": "Chattogram, GEC Circle",
+    "expireDate": "2026-01-17",
+    "additionalNotes": "Mildly spiced, contains potatoes and carrots.",
+    "description": "A wholesome meal consisting of mild vegetable curry made with potatoes and carrots, served with rice.",
+    "food_status": "Available",
+    "category": "Main Course"
+  },
+  {
+    "foodName": "Fish Fry (Tilapia)",
+    "foodImage": "https://i.ibb.co.com/JRxqSJxG/fish.jpg",
+    "foodQuantity": 12,
+    "pickupLocation": "Dhaka, Dhanmondi 32",
+    "expireDate": "2026-01-19",
+    "additionalNotes": "Spicy marinade, needs quick collection.",
+    "description": "Crispy fried tilapia marinated with a blend of spicy seasonings. A delightful treat.",
+    "food_status": "Available",
+    "category": "Main Course"
+  },
+  {
+    "foodName": "Sweet Dessert Platter",
+    "foodImage": "https://i.ibb.co.com/4RJ3GP9z/sweet.jpg",
+    "foodQuantity": 13,
+    "pickupLocation": "Khulna, New Market",
+    "expireDate": "2026-01-21",
+    "additionalNotes": "Contains Jalebi and Rasgulla.",
+    "description": "A delightful assortment of popular Bengali sweets including jalebi, rasgulla, and sandesh.",
+    "food_status": "Available",
+    "category": "Dessert"
+  },
+  {
+    "foodName": "Burger Patties (Beef)",
+    "foodImage": "https://i.ibb.co.com/DP6Cp5jJ/berger.jpg",
+    "foodQuantity": 14,
+    "pickupLocation": "Chattogram, Muradpur",
+    "expireDate": "2026-01-23",
+    "additionalNotes": "Frozen, ready to cook.",
+    "description": "Premium-quality frozen beef burger patties that are ready to cook. Ideal for quick meals.",
+    "food_status": "Available",
+    "category": "Fast Food"
+  },
+  {
+    "foodName": "Potato Vorta and Eggs",
+    "foodImage": "https://i.ibb.co.com/RG3Hwwhy/potato.jpg",
+    "foodQuantity": 15,
+    "pickupLocation": "Khulna, Shib Bari",
+    "expireDate": "2026-01-25",
+    "additionalNotes": "Traditional Bangladeshi dish. Quite spicy.",
+    "description": "A classic Bangladeshi combination of spicy potato mash (vorta) served with boiled eggs.",
+    "food_status": "Available",
+    "category": "Main Course"
+  },
+  {
+    "foodName": "Samosas (Veg)",
+    "foodImage": "https://i.ibb.co.com/KjbWXwBg/samusa.jpg",
+    "foodQuantity": 16,
+    "pickupLocation": "Sylhet, Ambarkhana",
+    "expireDate": "2026-01-02",
+    "additionalNotes": "Comes with tamarind chutney.",
+    "description": "Crispy deep-fried vegetarian samosas filled with spiced potatoes and peas.",
+    "food_status": "Available",
+    "category": "Snack"
+  },
+  {
+    "foodName": "Mixed Fruit Salad",
+    "foodImage": "https://i.ibb.co.com/rRdBjYjs/salad.jpg",
+    "foodQuantity": 17,
+    "pickupLocation": "Dhaka, Gulshan 1",
+    "expireDate": "2026-01-04",
+    "additionalNotes": "Contains apples, bananas, and grapes. Needs refrigeration.",
+    "description": "A refreshing blend of fresh seasonal fruits, including apples, bananas, and grapes.",
+    "food_status": "Available",
+    "category": "Dessert"
+  },
+  {
+    "foodName": "Pasta Salad",
+    "foodImage": "https://i.ibb.co.com/gH1HY8f/pasta.jpg",
+    "foodQuantity": 18,
+    "pickupLocation": "Rajshahi, Upashahar",
+    "expireDate": "2026-01-06",
+    "additionalNotes": "Made with fresh vegetables and Italian dressing.",
+    "description": "A creamy and flavorful pasta salad mixed with fresh vegetables and tossed in Italian dressing.",
+    "food_status": "Available",
+    "category": "Main Course"
+  },
+  {
+    "foodName": "Lentil Soup (Adas)",
+    "foodImage": "https://i.ibb.co.com/FbtX6X6d/sup.jpg",
+    "foodQuantity": 19,
+    "pickupLocation": "Rajshahi, Kazla",
+    "expireDate": "2026-01-08",
+    "additionalNotes": "High protein, suitable for all ages.",
+    "description": "A warm and nutritious lentil soup rich in protein and flavor. Suitable for all ages.",
+    "food_status": "Available",
+    "category": "Soup"
+  },
+  {
+    "foodName": "Plain Rice (Cooked)",
+    "foodImage": "https://i.ibb.co.com/0yXRGWJK/white-rice.jpg",
+    "foodQuantity": 20,
+    "pickupLocation": "Dhaka, Badda Link Road",
+    "expireDate": "2026-01-10",
+    "additionalNotes": "Basmati rice, good for mixing with curry.",
+    "description": "Freshly cooked basmati rice with a soft and fluffy texture, ideal to pair with curry.",
+    "food_status": "Available",
+    "category": "Main Course"
+  },
+  {
+    "foodName": "Apple",
+    "foodImage": "https://i.ibb.co.com/5gD6f1tB/apple.jpg",
+    "foodQuantity": 2,
+    "pickupLocation": "Dhaka",
+    "expireDate": "2026-01-12",
+    "additionalNotes": "Fresh and juicy.",
+    "description": "Crisp and sweet apples, freshly harvested.",
+    "food_status": "Available",
+    "category": "Fruit"
+  },
+  {
+    "foodName": "Mango",
+    "foodImage": "https://i.ibb.co.com/RTJ98RLD/Mango-1.jpg",
+    "foodQuantity": 5,
+    "pickupLocation": "Comilla",
+    "expireDate": "2026-01-14",
+    "additionalNotes": "Sweet and ripe.",
+    "description": "Juicy mangoes, perfect for eating fresh or making desserts.",
+    "food_status": "Available",
+    "category": "Fruit"
+  },
+  {
+    "foodName": "Mango",
+    "foodImage": "https://i.ibb.co.com/dsHGGWfF/Mango-2.jpg",
+    "foodQuantity": 5,
+    "pickupLocation": "Dhaka",
+    "expireDate": "2026-01-16",
+    "additionalNotes": "Good quality.",
+    "description": "Fresh and sweet mangoes, handpicked.",
+    "food_status": "Available",
+    "category": "Fruit"
+  }
+]
